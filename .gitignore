@@ -9,4 +9,4 @@ venv/
 
 .streamlit/
 
-dist/
+dist/streamlit/secrets.toml
